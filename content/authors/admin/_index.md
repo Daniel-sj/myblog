@@ -42,9 +42,6 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Joshua_Israeli
-- icon: google-scholar
-  icon_pack: ai
-  link: https://www.instagram.com/joshinese/
 - icon: github
   icon_pack: fab
   link: https://github.com/Daniel-sj
